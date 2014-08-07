@@ -1,6 +1,6 @@
 {
   "name": "slipsum",
-  "description": "Slipsum.com ported to a Meteor package",
+  "description": "Samuel Jackson Dorem Ipsum, ported from Slipsum.com",
   "homepage": "http://github.com/mjkaufer/slipsum-meteor",
   "author": "Matthew Kaufer <mjkaufer@gmail.com> (http://mjkaufer.github.io)",
   "version": "0.0.1",

@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Slipsum.com ported to a Meteor package"
+  summary: "Samuel Jackson Dorem Ipsum, ported from Slipsum.com"
 });
 
 Package.on_use(function (api, where) {
