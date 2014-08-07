@@ -2,21 +2,21 @@
 
 [Slipsum](http://slipsum.com) ported to a Meteor package.
 
-# Usage
+## Usage
 
 To use, add the following code to your page
 
-## `[{]{{slipsum [numberOfParagraphs] [pTag] [headerTag] [onlyHeader]}}[}]`
+### `[{]{{slipsum [numberOfParagraphs] [pTag] [headerTag] [onlyHeader]}}[}]`
 
 Note: Triple brackets (`{{{`) renders the generated text as HTML; double brackets (`{{`) renders it as escaped text.
 
-### `numberOfParagraphs`
+#### `numberOfParagraphs`
 
 The amount of paragraphs of text to be rendered
 
 Default: `1`
 
-### `pTag`
+#### `pTag`
 
 The tag to be placed in front of the lines of text.
 
@@ -24,7 +24,7 @@ Any HTML attributes can be added.
 
 Default: `""`
 
-### `headerTag`
+#### `headerTag`
 
 The tag to be rendered in front of headers
 
@@ -38,7 +38,7 @@ Otherwise, whichever string input will be rendered in front of the headers, and 
 
 Default: `false`
 
-### `onlyHeader`
+#### `onlyHeader`
 
 A boolean determining whether or not _only_ headers should render.
 
